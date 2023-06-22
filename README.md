@@ -1,2 +1,2 @@
 # awesome-mac-ppc
-Awesome macOS X apps lists for Mac with PowerPC CPU architecture
+Awesome macOS X application list for Mac with PowerPC CPU architecture
