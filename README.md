@@ -1,6 +1,9 @@
 # awesome-mac-ppc
 Awesome macOS X application list for Mac with PowerPC (G3, G4, G5) CPU architecture
 
+![Power to The Pro](https://github.com/user-attachments/assets/3b1089b3-7115-4f5c-9ac0-ddd6d2e594e1)
+
+
 - [Web Browser](#web-browser)
 - [Custom OS X Version](#custom-os-x-version)
 - [Games](#Games)
