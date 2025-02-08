@@ -5,7 +5,7 @@ Awesome macOS X application list for Mac with PowerPC (G3, G4, G5) CPU architect
 - [Custom OS X Version](#custom-os-x-version)
 - [Games](#Games)
 - [Utilities](#Utilities)
-- [IA](#IA)
+- [AI](#AI)
 - [Media Player](#media-player)
 - [placeholder](#placeholder)
 - [placeholder](#placeholder)
