@@ -193,3 +193,11 @@ Awesome macOS X application list for Mac with PowerPC (G3, G4, G5) CPU architect
 **Description :** Watch Modern Internet-Video
 
 **Link :** https://macintoshgarden.org/apps/ppc-media-center-7x-youtube-streamer-downloader-convertor
+
+### Amarra :
+
+**Store :**  Macintosh Garden
+
+**Description :** The Amarra Computer Music Player is the audiophile quality computer music player for the most discriminating enthusiast...
+
+**Link :** https://macintoshgarden.org/apps/amarra-12
