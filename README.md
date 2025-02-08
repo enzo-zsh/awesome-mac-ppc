@@ -1,10 +1,10 @@
 # awesome-mac-ppc
 Awesome macOS X application list for Mac with PowerPC (G3, G4, G5) CPU architecture
 
-- [Web Browser](#webbrowser)
+- [Web Browser](#web-browser)
 - [Custom OS X Version](#custom-os-x-version)
-- [placeholder](#placeholder)
-- [placeholder](#placeholder)
+- [Games](#Games)
+- [placeholder](#Utilities)
 - [placeholder](#placeholder)
 - [placeholder](#placeholder)
 - [placeholder](#placeholder)
@@ -69,3 +69,23 @@ Awesome macOS X application list for Mac with PowerPC (G3, G4, G5) CPU architect
 **Description :** Imagine if Mac OS X 10.6 Snow Leopard was released for the PowerPC architecture. Aging machines would have received a much-needed boost in performance, software updates would have carried on for a little bit further, and instrumental features would have been newly claimed -- resulting in pre-existing hardware being kept in service for much longer.
 
 **Link :** https://macintoshgarden.org/apps/sorbet-leopard
+
+## Games
+
+### ClassicCube PPC :
+
+**Store :**  Macintosh Garden
+
+**Description :** ClassiCube-PPC is a folk of ClassiCube for PowerMacs with Mac OS X 10.4+
+
+**Link :** https://github.com/andreiixedev/ClassiCube-PPC
+
+## Utilities
+
+### CarbonCopyCleaner :
+
+**Store :**  Macintosh Garden
+
+**Description :** Probably the best and most reliable backup app ever, and a very useful tool in system / drive repair.
+
+**Link :** https://macintoshgarden.org/apps/carbon-copy-cloner-347
