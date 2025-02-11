@@ -9,9 +9,9 @@ Awesome macOS X application list for Mac with PowerPC (G3, G4, G5) CPU architect
 - [Games](#Games)
 - [Utilities](#Utilities)
 - [AI](#AI)
+- [Social](#social)
 - [Media Player](#media-player)
-- [placeholder](#placeholder)
-- [placeholder](#placeholder)
+- [Jailbreak](#jailbreak)
 
 ## Web Browser
 
@@ -133,6 +133,70 @@ Awesome macOS X application list for Mac with PowerPC (G3, G4, G5) CPU architect
 
 **Link :** https://macintoshgarden.org/apps/sd-card-formatter
 
+### Overflow :
+
+**Store :**  Macintosh Garden
+
+**Description :** Overflow is an application designed to quickly launch applications, open documents, or access folders while reducing the number of items needed in your Dock.
+
+**Link :** https://macintoshgarden.org/apps/overflow
+
+### Menu Browser :
+
+**Store :**  Macintosh Garden
+
+**Description :** Menu Browser is a small utility program which lets you quickly and easily browse and open your files and folders, without distracting you from your current tasks.
+
+**Link :** https://macintoshgarden.org/apps/menu-browser
+
+### Boom 1.x :
+
+**Store :**  Macintosh Garden
+
+**Description :** Boom is a simple volume booster that lets you boost the volume of your Mac and your music files. 
+
+**Link :** https://macintoshgarden.org/apps/boom-1x
+
+### Pipette :
+
+**Store :**  Macintosh Garden
+
+**Description :** Pipette is a handy utility for digital artists and web designers. It allows you to quickly and easily grab the colour of any pixel on the screen and copy it in hex format, as used in CSS files, or in paint programs, such as Adobe Photoshop. 
+
+**Link :** https://macintoshgarden.org/apps/pipette
+
+### Img2icns :
+
+**Store :**  Macintosh Garden
+
+**Description :** Img2icns is an application to create icons from images or images from icons, keeping them organized for future use. Creating an icon is as simple as dropping one or more images into Img2icns and choosing an export format. 
+
+**Link :** https://macintoshgarden.org/apps/img2icns
+
+### IconBrowser :
+
+**Store :**  Macintosh Garden
+
+**Description :** An application for Mac OS X that allows you to use existing IconDropper packs with OS X. 
+
+**Link :** https://macintoshgarden.org/apps/iconbrowser
+
+### Architect :
+
+**Store :**  Macintosh Garden
+
+**Description :** Experimental theme building app for Mac OS X Leopard (and possibly Snow Leopard). 
+
+**Link :** https://macintoshgarden.org/apps/architect
+
+### IconViewer :
+
+**Store :**  Macintosh Garden
+
+**Description :** This Carbon application is a quick and easy way to view any and all resources contained within a Macintosh desktop icon. Simply drag and drop the icon onto IconViewer and a small inspector window appears that allows you to browse the various sizes and bit depths of that icon. Very helpful for people running pre-OS X systems, but who want to view the 128x128 resources contained in a particular icon file. 
+
+**Link :** https://macintoshgarden.org/apps/iconviewer
+
 ## AppStore
 
 ### PPCAppStore :
@@ -204,3 +268,13 @@ Awesome macOS X application list for Mac with PowerPC (G3, G4, G5) CPU architect
 **Description :** The Amarra Computer Music Player is the audiophile quality computer music player for the most discriminating enthusiast...
 
 **Link :** https://macintoshgarden.org/apps/amarra-12
+
+## Jailbreak
+
+### RedSn0w :
+
+**Store :**  Macintosh Garden
+
+**Description :** redsn0w is a lightweight, multi-platform jailbreaking, unlocking and customizing tool for the iPhone 2G, iPhone 3G, iPhone 3GS, iPhone 4, iPhone 4S, iPod touch 1G, iPod touch 2G, iPod touch 3G, iPod touch 4G, iPad 1, and iPad 2 running iOS 3.0 to 5.1.1.
+
+**Link :** https://macintoshgarden.org/apps/redsn0w
