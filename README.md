@@ -235,6 +235,14 @@ Awesome macOS X application list for Mac with PowerPC (G3, G4, G5) CPU architect
 
 **Link :** https://macintoshgarden.org/apps/discordppc
 
+### Discord Lite :
+
+**Store :**  Github
+
+**Description :** An ultra-lightweight native Discord client for vintage and modern Mac OS
+
+**Link :** https://github.com/dosdude1/discord-lite
+
 ### InterTube :
 
 **Store :**  Macintosh Garden
